@@ -1,0 +1,5 @@
+2020-03-18 04:48:36.365 INFO  listening to http://localhost:8081 
+2020-03-18 04:53:45.873 INFO  Search user error is: getaddrinfo ENOTFOUND seth.oktapreview.com 
+2020-03-18 05:04:06.410 INFO  listening to http://localhost:8081 
+2020-03-18 07:47:27.018 INFO  listening to http://localhost:8081 
+2020-03-18 07:47:43.518 INFO  {"profile":{"firstName":"MFA","lastName":"Test","email":"123456@seth.com","title":"Staff","location":"San Francisco","dob":"01/01/2020","accountComment":"No Comment"},"factors":[{"type":"question","id":"ufsptfd147phIUGST0h7"},{"type":"call","id":"clfptf77tcGz8kj8g0h7"},{"type":"sms","id":"smsptf3bnwV8AKEtj0h7"},{"type":"push","id":"opfpp2anwsoh16Y7V0h7"},{"type":"token:software:totp","id":"ostpp27vsjekosyND0h7"}],"userID":"00upkxiu5j1mL8irF0h7","question":"What is the name of your first stuffed animal?","errorCode":"","errorMessage":""} 
