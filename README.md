@@ -3,7 +3,7 @@
 > Web app to allow saving app passwords
 
 ## Pre-requisites
-> NPM
+> NPM (install npm from here: https://www.npmjs.com/get-npm)
 
 ## Create a single page OIDC app in Okta
 
