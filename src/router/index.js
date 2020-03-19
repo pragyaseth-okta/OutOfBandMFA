@@ -7,8 +7,6 @@ import Auth from '@okta/okta-vue'
 const client = '0oapk7aoaoAK65tJg0h7'
 const orgURL = 'https://seth.oktapreview.com'
 const baseRedirect = 'http://localhost:8080'
-// const orgURL = 'https://mgmresortsdev.oktapreview.com'
-// const client = '0oaptfdmjzFlIsCEN0h7'
 
 Vue.use(Auth, {
   issuer: orgURL + '/oauth2/default',
